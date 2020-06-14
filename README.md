@@ -16,10 +16,10 @@ The school summary shows very little effect on the average math grades and avera
 Excluding the 9th grade scores significantly changed the standing of Thomas High School. It dropped from 2nd in the district to 8th in the district. 
 
 ### Other Effects
-The math and reading scores by grade for Thomas High School cannot be compared as the 9th grade has no value for either math or reading in the updated data frame. The scores for the other grades remain unchanged. 
-[---]
-The scores for schools in the $630-$644 spending bracket were affected by the change. The average scores showed no effects but in that bracket, the percentage passing math changed from 73% to 67%, the percentage passing reading changed from 84% to 77% and the overall passing percentage changed from 63% to 56%. 
-[---]
-The scores for schools in the medium size bracket were affected by the change. The average scores showed no effects but in that bracket, the percentage passing math changed from 94% to 88%, the percentage passing reading changed from 97% to 91% and the overall passing percentage changed from 91% to 85%.
-[---]
+The math and reading scores by grade for Thomas High School cannot be compared as the 9th grade has no value for either math or reading in the updated data frame. The scores for the other grades remain unchanged. <br/>
+
+The scores for schools in the $630-$644 spending bracket were affected by the change. The average scores showed no effects but in that bracket, the percentage passing math changed from 73% to 67%, the percentage passing reading changed from 84% to 77% and the overall passing percentage changed from 63% to 56%. <br/>
+
+The scores for schools in the medium size bracket were affected by the change. The average scores showed no effects but in that bracket, the percentage passing math changed from 94% to 88%, the percentage passing reading changed from 97% to 91% and the overall passing percentage changed from 91% to 85%.<br/>
+
 The scores for charter type schools were affected by the change. The average scores showed no effects but in charter schools, the percentage passing math changed from 94% to 90%, the percentage passing reading changed from 97% to 93% and the overall passing percentage changed from 90% to 87%. 
